@@ -1,0 +1,6 @@
+{
+  "name": "BestMart BD",
+  "description": "Modern Bangladeshi online general store featuring daily deals, curated categories, fast delivery with bKash, Nagad, and Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
